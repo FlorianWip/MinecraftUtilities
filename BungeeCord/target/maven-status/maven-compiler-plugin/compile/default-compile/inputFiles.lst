@@ -1,0 +1,10 @@
+/home/florian/Nextcloud/SyncedWorkspace3/MinecraftUtilities/BungeeCord/src/main/java/de/flammenfuchs/utilities/bungeecord/common/commands/ConsoleSubCommand.java
+/home/florian/Nextcloud/SyncedWorkspace3/MinecraftUtilities/BungeeCord/src/main/java/de/flammenfuchs/utilities/bungeecord/common/commands/PlayerCommand.java
+/home/florian/Nextcloud/SyncedWorkspace3/MinecraftUtilities/BungeeCord/src/main/java/de/flammenfuchs/utilities/bungeecord/common/commands/model/BungeeCommand.java
+/home/florian/Nextcloud/SyncedWorkspace3/MinecraftUtilities/BungeeCord/src/main/java/de/flammenfuchs/utilities/bungeecord/common/commands/CommandRegistery.java
+/home/florian/Nextcloud/SyncedWorkspace3/MinecraftUtilities/BungeeCord/src/main/java/de/flammenfuchs/utilities/bungeecord/domain/commands/LanguageCommand.java
+/home/florian/Nextcloud/SyncedWorkspace3/MinecraftUtilities/BungeeCord/src/main/java/de/flammenfuchs/utilities/bungeecord/domain/commands/MinecraftUtilitiesCommand.java
+/home/florian/Nextcloud/SyncedWorkspace3/MinecraftUtilities/BungeeCord/src/main/java/de/flammenfuchs/utilities/bungeecord/common/commands/ArgsUtil.java
+/home/florian/Nextcloud/SyncedWorkspace3/MinecraftUtilities/BungeeCord/src/main/java/de/flammenfuchs/utilities/bungeecord/common/commands/ConsoleCommand.java
+/home/florian/Nextcloud/SyncedWorkspace3/MinecraftUtilities/BungeeCord/src/main/java/de/flammenfuchs/utilities/bungeecord/common/commands/PlayerSubCommand.java
+/home/florian/Nextcloud/SyncedWorkspace3/MinecraftUtilities/BungeeCord/src/main/java/de/flammenfuchs/utilities/bungeecord/domain/BungeeMain.java

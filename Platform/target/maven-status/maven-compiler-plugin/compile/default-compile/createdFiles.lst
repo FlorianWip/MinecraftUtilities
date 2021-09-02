@@ -1,0 +1,16 @@
+de/flammenfuchs/utilities/platform/common/language/LanguageProvider.class
+de/flammenfuchs/utilities/platform/common/configuration/ConfigurationException.class
+de/flammenfuchs/utilities/platform/common/text/ChatColor.class
+de/flammenfuchs/utilities/platform/common/configuration/json/JsonConfiguration.class
+de/flammenfuchs/utilities/platform/common/text/MessageUtils.class
+de/flammenfuchs/utilities/platform/common/configuration/json/JsonConfigurationProvider.class
+de/flammenfuchs/utilities/platform/common/reflection/ReflectionUtil.class
+de/flammenfuchs/utilities/platform/common/command/PlatformCommandRegistery.class
+de/flammenfuchs/utilities/platform/common/language/impl/SimpleLanguageProvider.class
+de/flammenfuchs/utilities/platform/common/command/model/PlatformCommand.class
+de/flammenfuchs/utilities/platform/common/command/HelpPattern.class
+de/flammenfuchs/utilities/platform/common/command/model/SubCommand.class
+de/flammenfuchs/utilities/platform/common/command/model/SubCommandExecutor.class
+de/flammenfuchs/utilities/platform/common/command/PlatformArgsUtil.class
+de/flammenfuchs/utilities/platform/common/language/LanguageSection.class
+de/flammenfuchs/utilities/platform/common/command/model/IgnoreListener.class

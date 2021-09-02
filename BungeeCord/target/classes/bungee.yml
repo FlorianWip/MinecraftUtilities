@@ -1,0 +1,4 @@
+name: MinecraftUtilities
+version: 1.0.0
+main: de.flammenfuchs.utilities.bungeecord.domain.BungeeMain
+author: Flammenfuchs_YT
